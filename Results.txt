@@ -1,0 +1,17 @@
+Genetic Algorithm (GaussianNB without parameters):
+F1             0.371173
+MCC            0.293092
+G-Mean         0.671257
+Balance        0.666099
+
+TSboostDF Bagging:
+F1             0.362513
+MCC            0.273513
+G-Mean         0.642017
+Balance        0.632872
+
+TSboostDF Voting:
+F1             0.373927
+MCC            0.301796
+G-Mean         0.679911
+Balance        0.676659
